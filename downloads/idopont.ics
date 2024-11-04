@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DESCRIPTION:digitális jegy (időpontfoglalás részletek\, módositás\, lemond
+ ás): https://idopontfoglalasredirect.kh.hu/-XnEk50uskKS95dl
+DTEND:20240930T080000Z
+DTSTART:20240930T070000Z
+LOCATION:1146 Budapest XIV. kerület Ajtósi Dürer sor 10.
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Ügyfél újraazonosítás\, adatmódosítás (Magánszemély) időpontfoglal
+ ás
+UID:3ea34e12-4bb1-4c6f-8008-4b94f06f2658
+END:VEVENT
+END:VCALENDAR
